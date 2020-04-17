@@ -17,13 +17,17 @@ We wanted to take a look a current game titles and see which would be the best t
 * Jupyter Notebook
 
 ###### FILES
-* Exploratory_Data_Analysis.ipynb - Consist of data used in final analysis
+* Exploratory_Data_Analysis.ipynb - Created charts and tables of data used in final analysis
 * Microsoft Movie Pitch.pdf - Presentation of findings
-* Regex_attempt_to_merge_more_games.ipynb - Using regex to clean up data
-* Data_analysis_metacritic_w_sales.ipynb - Testing of different sort methods
-* data_cleaning_for_all_csv.ipynb - Data cleaning for main DataFrame. List of top genres
-* gamespot_api.ipynb - Data from Gamespot API
-* metacritic_webscrape.ipynb - Data from scraping Metacritic
+* Regex_attempt_to_merge_more_games.ipynb - Attempt at using regex to clean up data
+* Data_analysis_metacritic_w_sales.ipynb - Testing of different sorting methods to use in future analysis
+* data_cleaning_for_all_csv.ipynb - Data cleaning and merging for all relevant DataFrames. List of top genres
+* gamespot_api.ipynb - Data gathering from Gamespot API
+* metacritic_webscrape.ipynb - Webscraping of Metacritic website to obtain all rated Xbox one games
+* Pickle_list folder - Stored lists of data gathered from web scraping and api as the processes to gather the data took a while
+* Pictures folder - PNG of graphs collected in the EDA
+* CSV_Files folder - all CSV files used over the course of the data analysis
+
 
 ###### AUTHORS
 * Antonio Hila
