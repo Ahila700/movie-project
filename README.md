@@ -15,7 +15,6 @@ We wanted to take a look a current game titles and see which would be the best t
 * Microsoft Movie Pitch.pdf - Presentation of findings
 * Regex_attempt_to_merge_more_games.ipynb - Attempt at using regex to clean up data
 * Data_analysis_metacritic_w_sales.ipynb - Testing of different sorting methods to use in future analysis
-* data_cleaning_for_all_csv.ipynb - Data cleaning and merging for all relevant DataFrames. List of top genres
 * gamespot_api.ipynb - Data gathering from Gamespot API
 * metacritic_webscrape.ipynb - Webscraping of Metacritic website to obtain all rated Xbox one games
 * Pickle_list folder - Stored lists of data gathered from web scraping and api as the processes to gather the data took a while
