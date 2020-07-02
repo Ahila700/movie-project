@@ -1,22 +1,16 @@
 # Video Game to Movie Analysis
 
-###### PURPOSE
+### PURPOSE
 
-We wanted to take a look a current game titles and see which would be the best to turn into movies.
+We wanted to take a look a current game titles and see which would be the best to turn into movies. Using data on different games by their rating on both metacritic and gamespot we the used sales data from VZchartz to find which games would make good movies. We found the most popular games based on their average user rating, their genre and how those related to sales of the game to find which of the newer games would do well as a movie.
 
-###### MOTIVATION
+### MOTIVATION
+
 > We wanted to take an exploratory and data based analysis of both the video game market as well as the movie market to see how they overlap, and how we could connect the two in a profitable way. We also wanted to transform data to be both visually appealing and informative.
 
 
-###### BUILT WITH
-* Python
-* Pandas
-* Matplotlib
+#### FILES
 
-* Pandas DataFrame
-* Jupyter Notebook
-
-###### FILES
 * Exploratory_Data_Analysis.ipynb - Created charts and tables of data used in final analysis
 * Microsoft Movie Pitch.pdf - Presentation of findings
 * Regex_attempt_to_merge_more_games.ipynb - Attempt at using regex to clean up data
