@@ -21,6 +21,9 @@
 * Pictures folder - PNG of Visuals collected in the EDA
 * CSV_Files folder - all CSV files used over the course of the data analysis
 
+### Medium Article
+
+- https://antoniohila.medium.com/what-games-would-make-good-movies-e1d02423205
 
 ###### AUTHORS
 * Antonio Hila
