@@ -4,7 +4,9 @@
 
 We wanted to take a look a current game titles on the Xbox 1 and see which would be the best to turn into movies. Using data on different games by their rating on both metacritic and gamespot we the used sales data from VZchartz to find which games would make good movies. We found the most popular games based on their average user rating, their genre and how those related to sales of the game to find which of the newer games would do well as a movie.
 <br>
+<br>
 We found that some games which performed well in our analysis were already made into movies and did very well such as the Witcher. So that gave us a good base to understand what genres, publishers, game reviews, etc would give the game the best chance for an adaptation.
+<br>
 <br>
 The future steps will be to get a better idea of what games in the past have been turned into shows or movies and get even more of an understanding of how well they did and if they fell into a similar genre. 
 
